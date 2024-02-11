@@ -6,7 +6,7 @@
     "name": { "str": "Bullseye" },
     "description": "You can't remember missing a shot.  Ever.",
 
-    "points": 0,
+    "points": 4,
     "starting_trait": true,
     "valid": false,
     "purifiable": false,
