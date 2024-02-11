@@ -1,0 +1,10 @@
+[
+  {
+    "id": "ENCH_BULLSEYE",
+    "type": "enchantment",
+
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "WEAPON_DISPERSION", "multiply": -1 }]
+  }
+]

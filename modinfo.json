@@ -1,0 +1,15 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "bullseye",
+
+    "name": "Bullseye",
+    "description": "Adds a trait that prevents you from missing with ranged weapons",
+
+    "authors": ["Hyperseeker"],
+
+    "category": "misc_additions",
+
+    "dependencies": ["dda"]
+  }
+]
